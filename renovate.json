@@ -1,0 +1,14 @@
+{
+  "packageRules": [
+    {
+      "packageNames": ["felixfbecker/language-server"],
+      "schedule": [],
+      "minor": {
+        "semanticCommitType": "feat"
+      },
+      "patch": {
+        "semanticCommitType": "fix"
+      }
+    }
+  ]
+}
