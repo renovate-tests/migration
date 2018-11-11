@@ -3,6 +3,7 @@
     {
       "packageNames": ["felixfbecker/language-server"],
       "schedule": [],
+      "pinVersions": true,
       "minor": {
         "semanticCommitType": "feat"
       },
